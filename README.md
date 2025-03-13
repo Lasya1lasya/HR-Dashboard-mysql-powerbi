@@ -6,12 +6,14 @@
   
 ## Questions
 1. What are the gender distribution of employees in the company ?
-- What is the age distribution of employees in the company ?
-- how many employees work at head quaters versus remote locations ?
-- What is the average length of employees who have been terminated ?
-- How does the gender distribution vary across departments and job title ?
-- What is the distribution of job titles across the company?
-- Which department has the highest turnover rate ?
-- What is the distribution of employees across location by state ?
-- How has the company's employee count changed over time based on hire and term dates ?
-- What is the tenure distribution for each department?
+2. What is the age distribution of employees in the company ?
+3. How many employees work at head quaters versus remote locations ?
+4. What is the average length of employees who have been terminated ?
+5. How does the gender distribution vary across departments and job title ?
+6. What is the distribution of job titles across the company?
+7. Which department has the highest turnover rate ?
+8. What is the distribution of employees across location by state ?
+9. How has the company's employee count changed over time based on hire and term dates ?
+10. What is the tenure distribution for each department?
+
+## Summary of findings
