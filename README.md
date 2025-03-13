@@ -5,7 +5,7 @@
 - Data Visualizaion - PowerBI
   
 ## Questions
-- What are the gender distribution of employees in the company ?
+1. What are the gender distribution of employees in the company ?
 - What is the age distribution of employees in the company ?
 - how many employees work at head quaters versus remote locations ?
 - What is the average length of employees who have been terminated ?
